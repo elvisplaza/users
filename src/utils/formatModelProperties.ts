@@ -57,3 +57,5 @@ console.log(formatModelProperties(
   {
     snakeCase: true
   }))
+
+  // TODO: create unit test for helper function
